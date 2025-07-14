@@ -1,0 +1,31 @@
+// brain.rive
+
+// Réponse par défaut
++ *
+- Bonjour !
+- Je n'ai pas compris.
+- Pouvez-vous reformuler ?
+- D'accord.
+
+// Exemple de règles plus spécifiques
++ bonjour
+- Salut !
+- Bonjour à toi.
+
++ comment ca va
+- Ça va bien, merci ! Et toi ?
+- Je suis un bot, je n'ai pas d'émotions, mais tout va bien !
+
++ quel est ton nom
+- Je suis Alice, votre assistante de chat.
+
++ merci
+- De rien !
+- Avec plaisir.
+
++ aide
+- Je peux discuter avec vous et simuler des réponses. Essayez de me poser des questions simples.
+
++ au revoir
+- Au revoir !
+- À bientôt.
